@@ -1,2 +1,2 @@
 # gist
-Categorized links to Gists
+Categorized links to gists
