@@ -1,7 +1,7 @@
 # gist
 Description: categorized links to gists
 ## Category: Azure
-### Storage Accounts
+### Storage Account
 Copy blobs across Storage Accounts: https://gist.github.com/caveatlector/d02ce1cee83aa8ce2c92386bcee300da
 ## Category: Sec
 ### nmap
