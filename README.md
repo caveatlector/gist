@@ -11,3 +11,8 @@ Test connection via getdate(): https://gist.github.com/caveatlector/9de6fe96d711
 ## Category: security
 ### nmap
 TCP/UDP port scan array of IPs: https://gist.github.com/caveatlector/1273d5095dc05e77cb916abea7c0c08e
+## Category: Windows
+### diskmgmt.msc
+Initialize data disk: https://gist.github.com/caveatlector/44044741d97a0203500d9d6fe0911de3
+### robocopy
+Copy directory recursively: https://gist.github.com/caveatlector/0aca83cfd97948266ae920051c13286b
